@@ -1,5 +1,5 @@
 # Traveling-Thief-Problem
-Our TTP solutions can be find here.
+Our TTP solutions can be find here. First Table includes the best solutions within 10000 iterations.
 Instance | Solution | QD-version | TTP score | Best-Known solution |
 --- | --- | --- |--- |--- |
 [eil51_n50_bounded-strongly-corr-01](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/eil51_n50_bounded-strongly-corr_01.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/eil51_n50_bounded-strongly-corr_01.txt) | EAX-DP | 4269.4 | Yes |
@@ -36,3 +36,9 @@ Instance | Solution | QD-version | TTP score | Best-Known solution |
 [dsj1000_n999_uncorr-03](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/dsj1000_n999_uncorr_03.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/dsj1000_n999_uncorr_03.txt) | EAX-EA | -4855 | Yes |
 [dsj1000_n999_uncorr-similar-weights-03](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/dsj1000_n999_uncorr-similar-weights_03.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/dsj1000_n999_uncorr-similar-weights_03.txt) | EAX-EA | -61797.3 | No |
 [dsj1000_n999_uncorr-similar-weights-04](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/dsj1000_n999_uncorr-similar-weights_04.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/dsj1000_n999_uncorr-similar-weights_04.txt) | EAX-EA | -24263.5 | No |
+The Best Solutions in longer runs (Best Known values):
+[pr152_n151_bounded-strongly-corr-01](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/pr152_n151_bounded-strongly-corr_01.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/pr152_n151_bounded-strongly-corr_01_B.txt) | EAX-DP | 11231.9 | Yes |
+[pr152_n151_uncorr-similar-weights-01](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/pr152_n151_uncorr-similar-weights_01.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/pr152_n151_uncorr-similar-weights_01_B.txt) | EAX-DP | 3796.4 | Yes |
+[pr152_n453_uncorr-similar-weights-01](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/pr152_n453_uncorr-similar-weights_01.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/pr152_n453_uncorr-similar-weights_01_B.txt) | EAX-DP | 13913.8 | Yes |
+[rat575_n574_bounded-strongly-corr-01](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/rat575_n574_bounded-strongly-corr_01.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/rat575_n574_bounded-strongly-corr_01_B.txt) | EAX-EA | 34007 | Yes |
+[rat575_n574_uncorr-similar-weights-01](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Instances/rat575_n574_uncorr-similar-weights_01.ttp) | [Sol](https://github.com/NikfarjamAdel/Traveling-Thief-Problem/blob/main/Solutions/rat575_n574_uncorr-similar-weights_01_B.txt) | EAX-EA | 19650.7 | Yes |
